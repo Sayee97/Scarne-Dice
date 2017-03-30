@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScarneDice</string>
+    <string name="comp_overall_score">Computer score is:%d</string>
+</resources>
